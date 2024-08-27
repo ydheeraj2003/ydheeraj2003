@@ -1,6 +1,6 @@
 ## Hi there 👋. Check my projects here...
 
-#Major Projects<br><br>
+# Major Projects<br><br>
 
 **Personal Porfolio**<br>
 Link: https://personal-portfolio-zeta-orpin.vercel.app/<br><br>
@@ -16,7 +16,7 @@ Backend Dashboard Link: https://suby-dashboard-backend.vercel.app/<br><br>
 Link: https://ydheeraj2003.github.io/ecommerce/<br><br>
 
 
-#Mini Projects<br><br>
+# Mini Projects<br><br>
 
 **Weather Application**<br>
 Link: https://weather1-psi.vercel.app/<br><br>
