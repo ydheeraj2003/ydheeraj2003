@@ -5,7 +5,7 @@
 **Personal Porfolio**<br>
 Link: https://personal-portfolio-zeta-orpin.vercel.app/<br><br>
 
-**Chatbot**<br>
+**Chatbot(UI deployed)**<br>
 Link: https://chatbot-pi6v.onrender.com<br><br>
 
 **Vendor Management System**<br> 
