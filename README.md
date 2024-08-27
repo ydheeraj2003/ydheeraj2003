@@ -1,36 +1,36 @@
 ## Hi there 👋
 
-##Major Projects
+**Major Projects**<br><br>
 
-###Personal Porfolio
-Link: https://personal-portfolio-zeta-orpin.vercel.app/
+**Personal Porfolio**<br>
+Link: https://personal-portfolio-zeta-orpin.vercel.app/<br><br>
 
-###Chatbot
-Link: https://chatbot-pi6v.onrender.com
+**Chatbot**<br>
+Link: https://chatbot-pi6v.onrender.com<br><br>
 
-###Vendor Management System 
-Frontend Link: https://suby-frontend.vercel.app/
-Backend Dashboard Link: https://suby-dashboard-backend.vercel.app/
+**Vendor Management System**<br> 
+Frontend Link: https://suby-frontend.vercel.app/<br>
+Backend Dashboard Link: https://suby-dashboard-backend.vercel.app/<br><br>
 
-###E-Commerce
-Link: https://ydheeraj2003.github.io/ecommerce/
+**E-Commerce**
+Link: https://ydheeraj2003.github.io/ecommerce/<br><br>
 
 
-###Mini Projects
+**Mini Projects**<br><br>
 
-###Weather Application
-Link: https://weather1-psi.vercel.app/
+**Weather Application**<br>
+Link: https://weather1-psi.vercel.app/<br><br>
 
-###Temperature Converter
-Link: https://ydheeraj2003.github.io/TemperatureConverter/
+**Temperature Converter**<br>
+Link: https://ydheeraj2003.github.io/TemperatureConverter/<br><br>
 
-###Rock Paper Scissors
-Link: https://ydheeraj2003.github.io/Rock-Paper-Scissor/
+**Rock Paper Scissors**<br>
+Link: https://ydheeraj2003.github.io/Rock-Paper-Scissor/<br><br>
 
-###Drum Kit
-Link: https://ydheeraj2003.github.io/drumkit/
+**Drum Kit**<br>
+Link: https://ydheeraj2003.github.io/drumkit/<br><br>
 
-###TODO List
+**TODO List**<br>
 Link: https://ydheeraj2003.github.io/TodoList/
 
 
