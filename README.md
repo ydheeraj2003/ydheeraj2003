@@ -1,6 +1,6 @@
 ## Hi there 👋. Check my projects here...
 
-# Major Projects<br><br>
+# Projects<br><br>
 
 **Personal Porfolio**<br>
 Link: https://personal-portfolio-zeta-orpin.vercel.app/<br><br>
@@ -17,26 +17,14 @@ Link: https://chat-app-frontend-t8ri.onrender.com<br><br>
 Frontend Link: https://suby-frontend.vercel.app/<br>
 Backend Dashboard Link: https://suby-dashboard-backend.vercel.app/<br><br>
 
+**Twitter Clone**<br>
+Link: https://twitter-clone-frontend-backend.netlify.app/<br><br>
+
 **E-Commerce**
 Link: https://ydheeraj2003.github.io/ecommerce/<br><br>
 
 
-# Mini Projects<br><br>
 
-**Weather Application**<br>
-Link: https://weather1-psi.vercel.app/<br><br>
-
-**Temperature Converter**<br>
-Link: https://ydheeraj2003.github.io/TemperatureConverter/<br><br>
-
-**Rock Paper Scissors**<br>
-Link: https://ydheeraj2003.github.io/Rock-Paper-Scissor/<br><br>
-
-**Drum Kit**<br>
-Link: https://ydheeraj2003.github.io/drumkit/<br><br>
-
-**TODO List**<br>
-Link: https://ydheeraj2003.github.io/TodoList/
 
 
 
